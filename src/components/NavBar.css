@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans:wght@100&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Fredoka:wght@500&display=swap");
+
+body {
+  font-family: 'Fredoka', sans-serif;
+}
+
+.navbar {
+  background-color:steelblue;
+  border-radius: 15px;
+}
+.logo{
+  color:white;
+  font-size: 2em;
+  padding-right: 5%;
+}
+
+@media only screen and (min-width: 500px) and (max-width: 1100px) {
+      body, .logo, .navbar{
+      width: 60%;
+      font-size: 1em;
+      margin: 1% auto; } }
+  
+@media only screen and (min-width: 351px) and (max-width: 499px) {
+    body, .logo, .navbar{
+      width: 50%;
+      font-size: 1em;
+      margin: 0 auto; } }
+  
+  @media only screen and (min-width: 280px) and (max-width: 350px) {
+    body, .logo, .navbar {
+      width: 40%;
+      font-size: 0.8em;
+      margin: 0 auto; } }
+  
