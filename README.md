@@ -1,3 +1,14 @@
+Actividad reciente:
+Cree la carpeta componentes, dentro de esa carpeta esta el archivo NavBar.js y el NavBar.css. 
+1 - Creacion del NavBar con Bootstrap, con el logo de la tienda, nombre de la tienda y opciones clickeables
+2 - Creacion del archivo NavBar.css, el cual se aplico el estilo al NavBar
+3 - Cree una carpeta llamada assets, donde coloque la imagen utilizada en la parte izquierda del NavBar (el logo)
+
+Temas aprendidos:
+React
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
