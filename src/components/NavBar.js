@@ -13,13 +13,13 @@ const NavBar = () => {
                     </button>
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav me-auto py-1">
-                            <li class="nav-item"><a class="nav-link" href="Index.html">MOTHERBOARS</a></li>
-                            <li class="nav-item"><a class="nav-link" href="productos.html">PROCESADORES</a></li>
-                            <li class="nav-item"><a class="nav-link" href="servicios.html">MEMORIAS RAM</a></li>
-                            <li class="nav-item"><a class="nav-link" href="faq.html">GABINETES</a></li>
+                            <li class="nav-item"><a class="nav-link" href="Index.html">Inicio</a></li>
+                            <li class="nav-item"><a class="nav-link" href="productos.html">Productos</a></li>
+                            <li class="nav-item"><a class="nav-link" href="servicios.html">Quienes somos?</a></li>
+                            {/* <li class="nav-item"><a class="nav-link" href="faq.html">GABINETES</a></li>
                             <li class="nav-item"><a class="nav-link" href="contacto.html">ACCESORIOS</a></li>
                             <li class="nav-item"><a class="nav-link" href="presupuesto.html">PRESUPUESTO</a></li>
-                            <li class="nav-item"><a class="nav-link" href="compra.html">COMPRAR</a></li>
+                            <li class="nav-item"><a class="nav-link" href="compra.html">COMPRAR</a></li> */}
                         </ul>
                         <form class="d-flex">
                             <input class="form-control me-2" type="search" placeholder="" aria-label="Buscar"></input>
