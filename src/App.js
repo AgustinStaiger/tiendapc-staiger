@@ -3,18 +3,19 @@ import './App.css';
 import NavBar from './components/NavBar';
 import './components/NavBar.css';
 import ItemListContainer from './components/ItemListContainer';
+import {MiComponente} from './components/MiComponente'
 
-function App() {
-  return (
+const App = () => {
+
+  const numero = 1;
+
+  return ( 
     <>
       <NavBar />
-      <ItemListContainer 
-      saludo='Bienvenidos'
-      />
-       
+      <ItemListContainer saludo='Bienvenidos'/>
+      <MiComponente miNumero={numero}/>
     </>
   );
-}
-
-
-export default App;
+  }
+  
+export default App
