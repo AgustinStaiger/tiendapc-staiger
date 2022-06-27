@@ -7,6 +7,12 @@ Cree la carpeta componentes, dentro de esa carpeta esta el archivo NavBar.js y e
 Temas aprendidos:
 React
 
+25/6 - Actividades realizadas:
+Desafio 3 - Segui los pasos del profesor de la after class y cree lo que pedia el desafio. No pude poner el carrito de compra en el NavBar (despues necesito consultarte el por que no aparece)
+
+26/6 - Actividades realizadas:
+Desafio 4 - Cree el archivo "MiComponente.js" y cree los botones de agregar y restar
+
 
 
 # Getting Started with Create React App
